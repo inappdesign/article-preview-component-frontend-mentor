@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My solution on Frontend Mentor]()
+- Solution URL: [My solution on Frontend Mentor](https://www.frontendmentor.io/solutions/article-preview-component-z-6pUE5T1r)
 - Live Site URL: [Live version of my solution](https://article-preview-component-frontend-mentor-sigma.vercel.app/)
 
 ## My process
