@@ -274,6 +274,12 @@ p {
 	}
 }
 
+@media (max-height: 27rem) {
+	.attribution {
+		display: none;
+	}
+}
+
 /* animations */
 @keyframes grow {
 	0% {
