@@ -206,6 +206,7 @@ p {
 	font-size: 1rem;
 	bottom: 0;
 	left: 0;
+	z-index: -1;
 }
 /* footer end */
 
@@ -271,12 +272,6 @@ p {
 
 	.text-content {
 		justify-content: flex-start;
-	}
-}
-
-@media (max-height: 27rem) {
-	.attribution {
-		display: none;
 	}
 }
 
